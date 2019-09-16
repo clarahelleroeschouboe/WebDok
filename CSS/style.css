@@ -199,7 +199,22 @@ display: none;
   to {opacity: 1}
 }
 
+
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+#fagcloud {
+	position:absolute;
+    margin-top: 2300px;
+	margin-left: 900px;
+}
+
+#fagikoner {
+	position:absolute;
+   margin-top: 2450px;
+	margin-left: 1050px;
+    margin-right: 500px;
+}
+
